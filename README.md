@@ -1,4 +1,4 @@
-# JAVA_MIREA /n
+# JAVA_MIREA \n
 
 Ready tasks:
 1)✔
